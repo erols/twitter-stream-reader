@@ -1,0 +1,427 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 10 21:57:15 +0000 2017",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/7JBwjK0ZxY",
+        "expanded_url": "https://twitter.com/ParkerCabbie/status/818875403586695173/video/1",
+        "id": 818875205884018688,
+        "id_str": "818875205884018688",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 338,
+            "resize": "fit",
+            "w": 600
+          },
+          "small": {
+            "h": 191,
+            "resize": "fit",
+            "w": 340
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 818875403586695173,
+        "source_status_id_str": "818875403586695173",
+        "source_user_id": 3089008407,
+        "source_user_id_str": "3089008407",
+        "type": "photo",
+        "url": "https://t.co/7JBwjK0ZxY"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3089008407,
+        "id_str": "3089008407",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Parker",
+        "screen_name": "ParkerCabbie"
+      },
+      {
+        "id": 47319664,
+        "id_str": "47319664",
+        "indices": [
+          19,
+          23
+        ],
+        "name": "Transport for London",
+        "screen_name": "TfL"
+      },
+      {
+        "id": 2182016287,
+        "id_str": "2182016287",
+        "indices": [
+          60,
+          75
+        ],
+        "name": "Abellio Rail and Bus",
+        "screen_name": "AbellioRailBus"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/7JBwjK0ZxY",
+        "expanded_url": "https://twitter.com/ParkerCabbie/status/818875403586695173/video/1",
+        "id": 818875205884018688,
+        "id_str": "818875205884018688",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 338,
+            "resize": "fit",
+            "w": 600
+          },
+          "small": {
+            "h": 191,
+            "resize": "fit",
+            "w": 340
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 818875403586695173,
+        "source_status_id_str": "818875403586695173",
+        "source_user_id": 3089008407,
+        "source_user_id_str": "3089008407",
+        "type": "video",
+        "url": "https://t.co/7JBwjK0ZxY",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 18379,
+          "variants": [
+            {
+              "bitrate": 320000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/320x180/PfWbLtzUbO4jLELg.mp4"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/pl/3QzxMCwN1MPz7ctT.m3u8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/640x360/W7yggY_F9tymGM4a.mp4"
+            },
+            {
+              "content_type": "application/dash+xml",
+              "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/pl/3QzxMCwN1MPz7ctT.mpd"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/1280x720/owCy2KMRxRVgxqMI.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 818939787604348930,
+  "id_str": "818939787604348930",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 10 17:41:24 +0000 2017",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7JBwjK0ZxY",
+          "expanded_url": "https://twitter.com/ParkerCabbie/status/818875403586695173/video/1",
+          "id": 818875205884018688,
+          "id_str": "818875205884018688",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 338,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7JBwjK0ZxY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 47319664,
+          "id_str": "47319664",
+          "indices": [
+            1,
+            5
+          ],
+          "name": "Transport for London",
+          "screen_name": "TfL"
+        },
+        {
+          "id": 2182016287,
+          "id_str": "2182016287",
+          "indices": [
+            42,
+            57
+          ],
+          "name": "Abellio Rail and Bus",
+          "screen_name": "AbellioRailBus"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7JBwjK0ZxY",
+          "expanded_url": "https://twitter.com/ParkerCabbie/status/818875403586695173/video/1",
+          "id": 818875205884018688,
+          "id_str": "818875205884018688",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/818875205884018688/pu/img/Hz9KSW_7W-SzaJXF.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 338,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7JBwjK0ZxY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 18379,
+            "variants": [
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/320x180/PfWbLtzUbO4jLELg.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/pl/3QzxMCwN1MPz7ctT.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/640x360/W7yggY_F9tymGM4a.mp4"
+              },
+              {
+                "content_type": "application/dash+xml",
+                "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/pl/3QzxMCwN1MPz7ctT.mpd"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/818875205884018688/pu/vid/1280x720/owCy2KMRxRVgxqMI.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 818875403586695173,
+    "id_str": "818875403586695173",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@TfL London gridlock not helped by idiot @AbellioRailBus bus drivers blocking box junctions! https://t.co/7JBwjK0ZxY",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 12 14:58:53 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "London Taxi Driver - Green Badge. Driving a cab round this great city since 1992. #MayfairMob",
+      "favourites_count": 11823,
+      "follow_request_sent": null,
+      "followers_count": 2439,
+      "following": null,
+      "friends_count": 1658,
+      "geo_enabled": true,
+      "id": 3089008407,
+      "id_str": "3089008407",
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 34,
+      "location": "Clerkenwell, London",
+      "name": "Parker",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3089008407/1454358520",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/765594549741821953/U3VxY8hZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/765594549741821953/U3VxY8hZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ParkerCabbie",
+      "statuses_count": 13731,
+      "time_zone": "Dublin",
+      "url": null,
+      "utc_offset": 0,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @ParkerCabbie: .@TfL London gridlock not helped by idiot @AbellioRailBus bus drivers blocking box junctions! https://t.co/7JBwjK0ZxY",
+  "timestamp_ms": "1484085435187",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Apr 26 22:56:23 +0000 2015",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "I'm not the messiah I'm just a very naughty boy !. one of London's finest since 1997. #BlackCabDriver #MayfairMob. Chelsea FC ST holder. RT's not an endorsement",
+    "favourites_count": 13888,
+    "follow_request_sent": null,
+    "followers_count": 702,
+    "following": null,
+    "friends_count": 686,
+    "geo_enabled": false,
+    "id": 3209968438,
+    "id_str": "3209968438",
+    "is_translator": false,
+    "lang": "en-GB",
+    "listed_count": 61,
+    "location": "Essex",
+    "name": "Luddite Cabbie MM",
+    "notifications": null,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3209968438/1439840992",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/804280925253206017/bEFI_wdT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/804280925253206017/bEFI_wdT_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "no1trublue",
+    "statuses_count": 16217,
+    "time_zone": "BST",
+    "url": null,
+    "utc_offset": 21600,
+    "verified": false
+  }
+}
